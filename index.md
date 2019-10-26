@@ -12,3 +12,4 @@ See the [list of packages](packages).
 ## About
 * [About the WebShell Project](about)
 * [Milestones](milestones)
+* [GitHub](https://github.com/websh-org)
